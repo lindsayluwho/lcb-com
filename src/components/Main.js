@@ -1,7 +1,7 @@
 import React from 'react'
 import PropTypes from 'prop-types'
 
-import pic01 from '../images/pic01.jpg'
+import pic01 from '../images/pic01.png'
 import pic02 from '../images/pic02.jpg'
 import pic03 from '../images/pic03.jpg'
 
@@ -26,14 +26,14 @@ class Main extends React.Component {
 
         <article id="work" className={`${this.props.article === 'work' ? 'active' : ''} ${this.props.articleTimeout ? 'timeout' : ''}`} style={{display:'none'}}>
           <h2 className="major">Work</h2>
-          <span className="image main"><img src={pic02} alt="" /></span>
+          <span className="image main"><img src={pic03} alt="" /></span>
           <p><a target="_blank" href="https://lindsayluwho.github.io">Web Development Portfolio</a></p>
           {close}
         </article>
 
         <article id="about" className={`${this.props.article === 'about' ? 'active' : ''} ${this.props.articleTimeout ? 'timeout' : ''}`} style={{display:'none'}}>
           <h2 className="major">Press</h2>
-          <span className="image main"><img src={pic03} alt="" /></span>
+          <span className="image main"><img src={pic02} alt="" /></span>
           <p><a target="_blank" href="https://www.youtube.com/watch?v=EkJn9sST-Fw">Jersey Matters</a>, 2017</p><p><a target="_blank" href="https://www.pastemagazine.com/articles/2017/03/why-is-this-progressive-millennial-running-for-con.html">Paste Magazine</a>, 2017</p><p><a target="_blank" href="https://medium.com/@michaelanthony_40842/the-progressive-movement-is-breaking-down-political-boundaries-across-us-505489667ee1">Medium</a>,&nbsp;2017</p><p><a target="_blank" href="https://www.nytimes.com/2017/03/22/nyregion/women-state-local-government.html">The New York Times</a>, 2017</p><p><a target="_blank" href="http://salutemag.com/meet-lindsay-brown-coming-face-millennial-politics/">Salute Magazine</a>, 2017</p><p><a target="_blank" href="https://www.thecut.com/2018/01/10-women-running-for-political-office-to-watch-in-2018.html">New York Magazine:</a> The Cut, 2018</p><p><a target="_blank" href="https://www.insidernj.com/cd7-flashpoint-running-republican-brown-says-democrats-will-never-beat-lance/">Insider New Jersey</a>, 2018</p><p><a target="_blank" href="https://wamu.org/story/18/02/02/a-conservatives-view-of-the-trump-presidency-and-whats-next-for-metoo/">WMAU 88.5</a>, 2018</p><p><a target="_blank" href="https://www.yahoo.com/news/sister-act-us-women-stampede-toward-elected-office-013135613.html">Yahoo News</a>, 2018&nbsp;</p><p><a target="_blank" href="https://www.bustle.com/p/young-republican-women-are-ready-to-run-the-reasons-why-will-totally-surprise-you-8405339">Bustle,</a> 2018</p><p><a target="_blank" href="https://www.msnbc.com/katy-tur/watch/avengers-a-progressive-republican-and-software-engineer-challenge-incumbent-men-1180674116002">MSNBC</a>, 2018</p><p><a target="_blank" href="https://www.imdb.com/title/tt9070958/">The Pink Waves,</a> documentary, 2018</p>
           {close}
         </article>
