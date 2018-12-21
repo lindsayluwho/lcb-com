@@ -55,16 +55,16 @@ class Main extends React.Component {
             </ul>
             
             <b>ADDITIONAL EXPERIENCE</b>
-            <br><i>Rutgers University</i> — Teaching Assistant, Full-Stack Coding Bootcamp <i>March 2018 - May 2018</i>
-            <br><i>Townsquare Media</i> — Administrative Assistant <i>March 2013 - December 2016</i>
-            <br><i>Edward Jones</i> — Branch Office Administrator <i>April 2012 - March 2013</i>
-            <br><i>Synergy NYC</i> — Agency Operations & Executive Assistant <i>January 2011 – September 2011</i></p>
+            <br><i>Rutgers University</i> — Teaching Assistant, Full-Stack Coding Bootcamp <i>March 2018 - May 2018</i></br>
+            <br><i>Townsquare Media</i> — Administrative Assistant <i>March 2013 - December 2016</i></br>
+            <br><i>Edward Jones</i> — Branch Office Administrator <i>April 2012 - March 2013</i></br>
+            <br><i>Synergy NYC</i> — Agency Operations & Executive Assistant <i>January 2011 – September 2011</i></br></p>
             <h3>Education</h3>
             <p><b>Rutgers University</b> — Full Stack Web Development Program
-            <br>November 2017 - February 2017
+            <br>November 2017 - February 2017</br>
 
             <b>Skidmore College</b>, Saratoga Springs — Bachelor of Arts, Psychology
-            <br>September 2006 - May 2010</p>
+            <br>September 2006 - May 2010</p></br>
             <h3>Technical Skills</h3>
             <p>HTML5, CSS3, JavaScript, JQuery, Bootstrap, Materialize, NodeJS, Express, MySQL, MongoDB, Express, HandlebarsJS, Git, GitHub, APIs, JSON, REST, AJAX & ReactJS</p>
 
