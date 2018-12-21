@@ -64,7 +64,7 @@ class Main extends React.Component {
             <br>November 2017 - February 2017</br>
 
             <b>Skidmore College</b>, Saratoga Springs — Bachelor of Arts, Psychology
-            <br>September 2006 - May 2010</p></br>
+            <br>September 2006 - May 2010</br></p>
             <h3>Technical Skills</h3>
             <p>HTML5, CSS3, JavaScript, JQuery, Bootstrap, Materialize, NodeJS, Express, MySQL, MongoDB, Express, HandlebarsJS, Git, GitHub, APIs, JSON, REST, AJAX & ReactJS</p>
 
