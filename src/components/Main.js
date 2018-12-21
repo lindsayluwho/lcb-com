@@ -30,7 +30,7 @@ class Main extends React.Component {
           <p><a target="_blank" href="https://lindsayluwho.github.io">Web Development Portfolio</a></p>
           <h3>Work Experience</h3>
           <p><b>Impact XM</b> — <i>IT Project Manager</i>
-            June 2018 - Present
+            <br/>June 2018 - Present
             <ul>
               <li>Oversee internal enterprise business systems and software development, setting the development calendar and determining upgrades and new features</li>
               <li>Coordinate vendors for software development and system architecture</li>
@@ -39,7 +39,7 @@ class Main extends React.Component {
             </ul>
 
             <b>New York Post</b> — <i>Project Manager</i>
-            June 2016 - November 2017
+            <br/>June 2016 - November 2017
             <ul>
               <li>Liaised between internal stakeholders across multiple departments and external development agencies for the development and maintenance of all digital products under the New York Post brand including website, handheld apps, and subscription-based tablet apps</li>
               <li>Led a customer support team for subscription-based tablet apps</li>
@@ -47,7 +47,7 @@ class Main extends React.Component {
             </ul>
             
             <b>Townsquare Media</b> — <i>Project Manager</i>
-            December 2013 - June 2016
+            <br/>December 2013 - June 2016
             <ul>
               <li>Managed 60 Digital Managing Editors in 66 local radio markets nationwide, providing operational support, and ensuring compliance and accountability of weekly projects</li>
               <li>Trained Digital Managing Editors on WordPress, Google Sheets, and Google Analytics</li>
@@ -55,15 +55,15 @@ class Main extends React.Component {
             </ul>
             
             <b>ADDITIONAL EXPERIENCE</b>
-            <br/><i>Rutgers University</i> — Teaching Assistant, Full-Stack Coding Bootcamp <i>March 2018 - May 2018</i>
-            <br/><i>Townsquare Media</i> — Administrative Assistant <i>March 2013 - December 2016</i>
-            <br/><i>Edward Jones</i> — Branch Office Administrator <i>April 2012 - March 2013</i>
-            <br/><i>Synergy NYC</i> — Agency Operations & Executive Assistant <i>January 2011 – September 2011</i></p>
+            <br/><i>Rutgers University</i> — Teaching Assistant, Full-Stack Coding Bootcamp <br/><i>March 2018 - May 2018</i>
+            <br/><i>Townsquare Media</i> — Administrative Assistant <br/><i>March 2013 - December 2016</i>
+            <br/><i>Edward Jones</i> — Branch Office Administrator <br/><i>April 2012 - March 2013</i>
+            <br/><i>Synergy NYC</i> — Agency Operations & Executive Assistant <br/><i>January 2011 – September 2011</i></p>
             <h3>Education</h3>
             <p><b>Rutgers University</b> — Full Stack Web Development Program
             <br/>November 2017 - February 2017
 
-            <b>Skidmore College</b>, Saratoga Springs — Bachelor of Arts, Psychology
+            <br/><b>Skidmore College</b>, Saratoga Springs — Bachelor of Arts, Psychology
             <br/>September 2006 - May 2010</p>
             <h3>Technical Skills</h3>
             <p>HTML5, CSS3, JavaScript, JQuery, Bootstrap, Materialize, NodeJS, Express, MySQL, MongoDB, Express, HandlebarsJS, Git, GitHub, APIs, JSON, REST, AJAX & ReactJS</p>
