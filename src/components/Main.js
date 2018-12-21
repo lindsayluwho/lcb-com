@@ -36,7 +36,7 @@ class Main extends React.Component {
               <li>Coordinate vendors for software development and system architecture</li>
               <li>Generate business intelligence reports for departments across the organization including operations, finance, and account services</li>
               <li>Troubleshoot system errors and perform extensive user acceptance testing on fixes and features for internal software</li>
-            <ul>
+            </ul>
 
             <b>New York Post</b> — <i>Project Manager</i>
             June 2016 - November 2017
