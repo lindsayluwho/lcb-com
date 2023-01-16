@@ -138,4 +138,4 @@ Main.propTypes = {
   setWrapperRef: PropTypes.func.isRequired,
 }
 
-export default Main
+export default Main 
