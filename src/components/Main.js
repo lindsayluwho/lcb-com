@@ -17,10 +17,10 @@ class Main extends React.Component {
           <h2 className="major">About</h2>
           <span className="image main"><img src={pic01} alt="" /></span>
           <p>Lindsay Brown is a millennial software developer and project manager who ran for the US House of Representatives (a.k.a. Congress) in the 2018 Republican primary in New Jersey's 7th district, ammassing nearly 15% of the vote while raising and spending only $5,000, while continuing to work her day job full-time. Lindsay is a leader for women and young people who wish to see a more diverse-looking Republican party to complement the party's acceptance of diverse ideologies. </p>
-          <p>Lindsay grew up in the Philadelphia suburbs and attended Skidmore College in Saratoga Springs, NY for her bachelors in Psychology. Graduating in 2010 at the height of the 2008 Recession, Lindsay built her career from part-time administrative roles and climbed the ranks to lead digital projects and software development efforts at Townsquare Media, the New York Post, and experiential media agency Impact XM. </p>
-          <p>Lindsay is a full-stack web developer with strong familiarity of the MERN stack, SQL databases, and AWS architecture. During her political campaign of 2018, Lindsay utilized the NJ voter rolls to develop her own open source canvassing app, utilizing the Google Maps API and the Data Science Toolkit library. She is currently working on a sales and data collection tool for FDA Outsourcing (503B) Facilities that specialize in drug shortage products. Lindsay is a fan of clean, well-commented code and enjoys fiddling with CSS to perfect frontend UI and UX components.</p>
-          <p>In her wealth of spare time, Lindsay oggles home decor blogs and Instagram accounts, DIYs some successful house projects and plenty of Pintrosities, and acts as guardian and Food Lady to her rescue pets (dogs: Lily, Liza; cats: Rex, Archie, Alfie). When the occasion arises, Lindsay fosters for a local Pug rescue and for a kitten rescue out of Brooklyn. Her personal Instagram feed is 99% composed of the permanent and temporary furry residents of her home. </p>
-          <p> Lindsay and her husband Andrew, a pharmacist who specializes in quality and operations in the Pharma industry, own their home in Clark, New Jersey. </p>
+          <p>Lindsay grew up in the Philadelphia suburbs and attended Skidmore College in Saratoga Springs, NY for her bachelors in Psychology. Graduating in 2010 at the height of the 2008 Recession, Lindsay built her career from part-time administrative roles and climbed the ranks to lead digital projects and software development efforts at Townsquare Media, the New York Post, Impact XM, and Thinx. </p>
+          <p>Lindsay is a full-stack web developer with strong familiarity of the MERN stack, SQL databases, and AWS architecture. During her political campaign of 2018, Lindsay utilized the NJ voter rolls to develop her own open source canvassing app, utilizing the Google Maps API and the Data Science Toolkit library. Lindsay is a fan of clean, well-commented code and enjoys fiddling with CSS to perfect frontend UI and UX components.</p>
+          <p>Lindsay is Mom to Hanna and Food Lady to 3 dogs, 4 cats, and a flock of chickens with future ambitions for sheep, ducks, alpaca, and miniature donkeys in the mix. In her wealth of spare time, Lindsay can be found fooling around on the tractor or digging in the dirt, trying to fix more than she breaks working on home improvement projects, or crocheting in front of the TV. When the occasion arises, Lindsay fosters dogs and neonatal kittens. Her personal Instagram feed is 99% composed of the permanent and temporary furry residents of her home. </p>
+          <p> Lindsay and her husband Andrew, a pharmacist who specializes in quality and operations in the Pharma industry, own a home on 4 acres and a barn in Sussex County, New Jersey. </p>
           {close}
         </article>
 
@@ -29,8 +29,18 @@ class Main extends React.Component {
           <span className="image main"><img src={pic03} alt="" /></span>
           <p><a target="_blank" href="https://lindsayluwho.github.io">Web Development Portfolio</a></p>
           <h3>Work Experience</h3>
-          <p><b>Impact XM</b> — <i>IT Project Manager</i>
-            <br/>June 2018 - Present
+          <p><b>Thinx</b> — <i>Technical Project Manager, Digital Product</i>
+            <br/>January 2021 - Present
+            <ul>
+              <li>Manage product roadmap for new feature launches and site maintenance activities with a focus on engineer resource planning</li>
+              <li>Run Scrum ceremonies and assignment planning for a team of 8 engineers, reporting to Director of Digital Product</li>
+              <li>Liaise with UX, Marketing, Brand, and Creative departments to coordinate necessary information and assets for engineers</li>
+              <li>Lead discovery, project planning, QA testing, and day to day technical project management for full site redesign and migration from Shopify to headless architecture with successful on time launch</li>
+              <li>Migrated project planning resources from Asana to Jira including daily administration and management of Digital Product and Engineering Jira boards</li>
+            </ul>
+            
+          <b>Impact XM</b> — <i>IT Project Manager</i>
+            <br/>June 2018 - September 2020
             <ul>
               <li>Oversee internal enterprise business systems and software development, setting the development calendar and determining upgrades and new features</li>
               <li>Coordinate vendors for software development and system architecture</li>
@@ -61,7 +71,7 @@ class Main extends React.Component {
             <br/><i>Synergy NYC</i> — Agency Operations & Executive Assistant <br/><i>January 2011 – September 2011</i></p>
             <h3>Education</h3>
             <p><b>Rutgers University</b> — Full Stack Web Development Program
-            <br/>November 2017 - February 2017
+            <br/>November 2017 - February 2018
 
             <br/><b>Skidmore College</b>, Saratoga Springs — Bachelor of Arts, Psychology
             <br/>September 2006 - May 2010</p>
