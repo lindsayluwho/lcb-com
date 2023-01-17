@@ -16,6 +16,9 @@
    "devDependencies": {
     "prettier": "^2.8.1"
   },
+  "optionalDependencies": {
+   "@nrwl/cli": "13.7.1"
+},
 
   "keywords": [
     "gatsby"
