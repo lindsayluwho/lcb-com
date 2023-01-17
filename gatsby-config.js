@@ -5,7 +5,7 @@ module.exports = {
     description: "Software developer, project manager, cat herder, politician, optimist"
   },
   plugins: [
-    'gatsby-plugin-react-helmet',
+     `gatsby-plugin-image`,
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
