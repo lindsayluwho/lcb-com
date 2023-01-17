@@ -5,7 +5,8 @@ module.exports = {
     description: "Software developer, project manager, cat herder, politician, optimist"
   },
   plugins: [
-     `gatsby-plugin-image`,
+     `gatsby-plugin-image`, `gatsby-transformer-sharp`,
+    `gatsby-plugin-sharp`,
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
@@ -18,7 +19,5 @@ module.exports = {
         icon: 'src/images/gatsby-icon.png', // This path is relative to the root of the site.
       },
     },
-    'gatsby-plugin-sass',
-    'gatsby-plugin-offline'
-  ],
+    ]
 }
