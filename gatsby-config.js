@@ -6,7 +6,7 @@ module.exports = {
   },
   plugins: [
      `gatsby-plugin-image`, `gatsby-transformer-sharp`,
-    `gatsby-plugin-sharp`, `gatsby-plugin-react-helmet`,
+    `gatsby-plugin-sharp`, `gatsby-plugin-react-helmet`, `gatsby-plugin-sass`,
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
