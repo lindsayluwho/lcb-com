@@ -1,2 +1,0 @@
-# Redirect default Netlify subdomain to primary domain
-https://jolly-payne-8fe797.netlify.com/* https://www.lindsaycbrown.com/:splat 301!
