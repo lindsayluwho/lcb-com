@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: "Lindsay C. Brown",
     author: "Lindsay C. Brown",
-    description: "Software developer, project manager, cat herder, politician, optimist"
+    description: "Software developer, product manager, cat herder, politician, optimist"
   },
   plugins: [
      `gatsby-plugin-image`, `gatsby-transformer-sharp`,
