@@ -16,7 +16,7 @@ class Main extends React.Component {
         <article id="intro" className={`${this.props.article === 'intro' ? 'active' : ''} ${this.props.articleTimeout ? 'timeout' : ''}`} style={{display:'none'}}>
           <h2 className="major">About</h2>
           <span className="image main"><img src={pic01} alt="" /></span>
-          <p>Lindsay Brown is a millennial software developer and project manager who ran for the US House of Representatives (a.k.a. Congress) in the 2018 Republican primary in New Jersey's 7th district, ammassing nearly 15% of the vote while raising and spending only $5,000, while continuing to work her day job full-time. Lindsay is a leader for women and young people who wish to see a more diverse-looking Republican party to complement the party's acceptance of diverse ideologies. </p>
+          <p>Lindsay Brown is a millennial software developer and product manager who ran for the US House of Representatives (a.k.a. Congress) in the 2018 Republican primary in New Jersey's 7th district, ammassing nearly 15% of the vote while raising and spending only $5,000, while continuing to work her day job full-time. Lindsay is a leader for women and young people who wish to see a more diverse-looking Republican party to complement the party's acceptance of diverse ideologies. </p>
           <p>Lindsay grew up in the Philadelphia suburbs and attended Skidmore College in Saratoga Springs, NY for her bachelors in Psychology. Graduating in 2010 at the height of the 2008 Recession, Lindsay built her career from part-time administrative roles and climbed the ranks to lead digital projects and software development efforts at Townsquare Media, the New York Post, Impact XM, and Thinx. </p>
           <p>Lindsay is a full-stack web developer with strong familiarity of the MERN stack, SQL databases, and AWS architecture. During her political campaign of 2018, Lindsay utilized the NJ voter rolls to develop her own open source canvassing app, utilizing the Google Maps API and the Data Science Toolkit library. Lindsay is a fan of clean, well-commented code and enjoys fiddling with CSS to perfect frontend UI and UX components.</p>
           <p>Lindsay is Mom to Hanna and Food Lady to 3 dogs, 4 cats, and a flock of chickens with future ambitions for sheep, ducks, alpaca, and miniature donkeys in the mix. In her wealth of spare time, Lindsay can be found fooling around on the tractor or digging in the dirt, trying to fix more than she breaks working on home improvement projects, or crocheting in front of the TV. When the occasion arises, Lindsay fosters dogs and neonatal kittens. Her personal Instagram feed is 99% composed of the permanent and temporary furry residents of her home. </p>
@@ -29,31 +29,31 @@ class Main extends React.Component {
           <span className="image main"><img src={pic03} alt="" /></span>
           <p><a target="_blank" href="https://lindsayluwho.github.io">Web Development Portfolio</a></p>
           <h3>Work Experience</h3>
-          <p><b>Thinx</b> — <i>Technical Project Manager, Digital Product</i>
+          <p><b>Thinx</b> — <i>Technical Product Manager, Digital Product</i>
             <br/>January 2021 - Present
             <ul>
-              <li>Manage product roadmap for new feature launches and site maintenance activities with a focus on engineer resource planning</li>
-              <li>Run Scrum ceremonies and assignment planning for a team of 8 engineers, reporting to Director of Digital Product</li>
-              <li>Liaise with UX, Marketing, Brand, and Creative departments to coordinate necessary information and assets for engineers</li>
-              <li>Lead discovery, project planning, QA testing, and day to day technical project management for full site redesign and migration from Shopify to headless architecture with successful on time launch</li>
-              <li>Migrated project planning resources from Asana to Jira including daily administration and management of Digital Product and Engineering Jira boards</li>
+              <li>Manage product roadmap for 45+ releases/year with a focus on resource planning, site performance, and customer experience.</li>
+              <li>Manage a team of 8 engineers, reporting to Director of Digital Product, resulting in a successful site relaunch, including delivery of quality product within budget and schedule.</li>
+              <li>Liaised with UX, Marketing, Brand, and Creative departments to coordinate necessary information and assets for engineers, resulting in a project that launched on time and on budget.</li>
+              <li>Managed a full site redesign and migration from Shopify to headless architecture, collaborating with cross-functional teams and coordinating consultants, to complete the project on-time and on budget.</li>
+              <li>Migrated project planning resources from Asana to Jira, resulting in improved visibility and better collaboration with the engineering team and stakeholders.</li>
             </ul>
             
-          <b>Impact XM</b> — <i>IT Project Manager</i>
+          <b>Impact XM</b> — <i>Technical Project Manager</i>
             <br/>June 2018 - September 2020
             <ul>
-              <li>Oversee internal enterprise business systems and software development, setting the development calendar and determining upgrades and new features</li>
-              <li>Coordinate vendors for software development and system architecture</li>
-              <li>Generate business intelligence reports for departments across the organization including operations, finance, and account services</li>
-              <li>Troubleshoot system errors and perform extensive user acceptance testing on fixes and features for internal software</li>
+              <li>Oversaw internal enterprise business systems and software development, setting the development calendar and determining upgrades and new features for the new ERP system.</li>
+              <li>Coordinated three independent vendors for the development of a software system by leveraging the capabilities of each vendor, and by ensuring the quality of the product.</li>
+              <li>Created and led the implementation of reporting solutions and dashboards to improve internal service efficiency, client service, and visibility of revenue and costs.</li>
+              <li>Troubleshot and fixed system errors, resulting in 5% reduction in system downtime.</li>
             </ul>
 
             <b>New York Post</b> — <i>Project Manager</i>
             <br/>June 2016 - November 2017
             <ul>
-              <li>Liaised between internal stakeholders across multiple departments and external development agencies for the development and maintenance of all digital products under the New York Post brand including website, handheld apps, and subscription-based tablet apps</li>
-              <li>Led a customer support team for subscription-based tablet apps</li>
-              <li>Submitted bug and new feature tickets to JIRA for developers, tracked progress of tickets to ensure timely delivery, and performed extensive QA on every new feature and bug before deployment to the production environment</li>
+              <li>Managed the development and maintenance of all digital products under the New York Post brand including website, handheld apps, and subscription-based tablet apps by coordinating with internal stakeholders and external development agencies.</li>
+              <li>Managed the customer support team for subscription-based tablet apps and reduced the team’s backlog by 50% while increasing customer satisfaction scores by 20%.</li>
+              <li>Reduced time-to-market for new features and bug fixes by tracking progress of tickets in Jira, performing extensive QA, and communicating daily with developers.</li>
             </ul>
             
             <b>Townsquare Media</b> — <i>Project Manager</i>
